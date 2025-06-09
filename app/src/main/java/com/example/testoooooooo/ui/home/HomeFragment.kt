@@ -23,7 +23,12 @@ class HomeFragment : Fragment() {
     // gay
     // gay
 
-
+    // more gay
+    // more gay
+    // more gay
+    // more gay
+    // more gay
+    // more gay
 
 
 
