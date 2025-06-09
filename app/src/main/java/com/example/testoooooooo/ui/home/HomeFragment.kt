@@ -10,7 +10,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.testoooooooo.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
-
+    //888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
     private var _binding: FragmentHomeBinding? = null
 
     // This property is only valid between onCreateView and
